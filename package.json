@@ -1,0 +1,41 @@
+{
+  "name": "loginapp",
+  "version": "1.0.0",
+  "description": "Simple authentication system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoStars/loginapp.git"
+  },
+  "keywords": [
+    "login",
+    "app",
+    "simple",
+    "authentication"
+  ],
+  "author": "GoStars",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoStars/loginapp/issues"
+  },
+  "homepage": "https://github.com/GoStars/loginapp#readme",
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "connect-flash": "*",
+    "cookie-parser": "^1.4.1",
+    "express": "*",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "express-session": "*",
+    "express-validator": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-local": "*"
+  }
+}
