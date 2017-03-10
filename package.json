@@ -17,7 +17,7 @@
     "authentication"
   ],
   "author": "GoStars",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/GoStars/loginapp/issues"
   },
